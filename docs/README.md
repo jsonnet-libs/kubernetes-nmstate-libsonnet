@@ -2,4 +2,5 @@
 
 This library is generated with [`k8s`](https://github.com/jsonnet-libs/k8s).
 
-[Docs](https://jsonnet-libs.github.io/kubernetes-nmstate-libsonnet)
+- [0.71](0.71/README.md)
+- [0.70](0.70/README.md)

@@ -2,67 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://jsonnet-libs.github.io/kubernetes-nmstate-libsonnet/</loc>
-         <lastmod>2022-07-06</lastmod>
+         <lastmod>2022-09-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/kubernetes-nmstate-libsonnet/0.70/</loc>
-         <lastmod>2022-07-06</lastmod>
+         <lastmod>2022-09-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/kubernetes-nmstate-libsonnet/0.70/nmstate/</loc>
-         <lastmod>2022-07-06</lastmod>
+         <lastmod>2022-09-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/kubernetes-nmstate-libsonnet/0.70/nmstate/v1/</loc>
-         <lastmod>2022-07-06</lastmod>
+         <lastmod>2022-09-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/kubernetes-nmstate-libsonnet/0.70/nmstate/v1/nmState/</loc>
-         <lastmod>2022-07-06</lastmod>
+         <lastmod>2022-09-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/kubernetes-nmstate-libsonnet/0.70/nmstate/v1beta1/</loc>
-         <lastmod>2022-07-06</lastmod>
+         <lastmod>2022-09-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/kubernetes-nmstate-libsonnet/0.70/nmstate/v1beta1/nmState/</loc>
-         <lastmod>2022-07-06</lastmod>
+         <lastmod>2022-09-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/kubernetes-nmstate-libsonnet/0.71/</loc>
-         <lastmod>2022-07-06</lastmod>
+         <lastmod>2022-09-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/kubernetes-nmstate-libsonnet/0.71/nmstate/</loc>
-         <lastmod>2022-07-06</lastmod>
+         <lastmod>2022-09-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/kubernetes-nmstate-libsonnet/0.71/nmstate/v1/</loc>
-         <lastmod>2022-07-06</lastmod>
+         <lastmod>2022-09-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/kubernetes-nmstate-libsonnet/0.71/nmstate/v1/nmState/</loc>
-         <lastmod>2022-07-06</lastmod>
+         <lastmod>2022-09-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/kubernetes-nmstate-libsonnet/0.71/nmstate/v1beta1/</loc>
-         <lastmod>2022-07-06</lastmod>
+         <lastmod>2022-09-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/kubernetes-nmstate-libsonnet/0.71/nmstate/v1beta1/nmState/</loc>
-         <lastmod>2022-07-06</lastmod>
+         <lastmod>2022-09-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>

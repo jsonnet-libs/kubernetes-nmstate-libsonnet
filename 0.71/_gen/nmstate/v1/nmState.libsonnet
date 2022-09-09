@@ -47,7 +47,7 @@
     apiVersion: 'nmstate.io/v1',
     kind: 'NMState',
   } + self.metadata.withName(name=name) + self.metadata.withAnnotations(annotations={
-    'tanka.dev/namespaced': 'true',
+    'tanka.dev/namespaced': 'false',
   }),
   '#spec':: d.obj(help='"NMStateSpec defines the desired state of NMState"'),
   spec: {

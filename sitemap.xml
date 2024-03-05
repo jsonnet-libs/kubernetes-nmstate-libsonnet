@@ -2,157 +2,157 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://jsonnet-libs.github.io/kubernetes-nmstate-libsonnet/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/kubernetes-nmstate-libsonnet/0.70/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/kubernetes-nmstate-libsonnet/0.70/nmstate/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/kubernetes-nmstate-libsonnet/0.70/nmstate/v1/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/kubernetes-nmstate-libsonnet/0.70/nmstate/v1/nmState/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/kubernetes-nmstate-libsonnet/0.70/nmstate/v1beta1/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/kubernetes-nmstate-libsonnet/0.70/nmstate/v1beta1/nmState/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/kubernetes-nmstate-libsonnet/0.71/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/kubernetes-nmstate-libsonnet/0.71/nmstate/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/kubernetes-nmstate-libsonnet/0.71/nmstate/v1/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/kubernetes-nmstate-libsonnet/0.71/nmstate/v1/nmState/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/kubernetes-nmstate-libsonnet/0.71/nmstate/v1beta1/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/kubernetes-nmstate-libsonnet/0.71/nmstate/v1beta1/nmState/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/kubernetes-nmstate-libsonnet/0.72/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/kubernetes-nmstate-libsonnet/0.72/nmstate/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/kubernetes-nmstate-libsonnet/0.72/nmstate/v1/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/kubernetes-nmstate-libsonnet/0.72/nmstate/v1/nmState/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/kubernetes-nmstate-libsonnet/0.72/nmstate/v1beta1/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/kubernetes-nmstate-libsonnet/0.72/nmstate/v1beta1/nmState/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/kubernetes-nmstate-libsonnet/0.73/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/kubernetes-nmstate-libsonnet/0.73/nmstate/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/kubernetes-nmstate-libsonnet/0.73/nmstate/v1/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/kubernetes-nmstate-libsonnet/0.73/nmstate/v1/nmState/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/kubernetes-nmstate-libsonnet/0.73/nmstate/v1beta1/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/kubernetes-nmstate-libsonnet/0.73/nmstate/v1beta1/nmState/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/kubernetes-nmstate-libsonnet/0.74/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/kubernetes-nmstate-libsonnet/0.74/nmstate/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/kubernetes-nmstate-libsonnet/0.74/nmstate/v1/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/kubernetes-nmstate-libsonnet/0.74/nmstate/v1/nmState/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/kubernetes-nmstate-libsonnet/0.74/nmstate/v1beta1/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/kubernetes-nmstate-libsonnet/0.74/nmstate/v1beta1/nmState/</loc>
-         <lastmod>2023-06-25</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
